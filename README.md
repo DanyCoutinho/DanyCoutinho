@@ -1,5 +1,5 @@
 ##
-### Olá Mundo, eu sou o Dany Coutinho programador Full-Stack, para a Web e mais Mobile! <img height= "170" weight= "170" src="https://user-images.githubusercontent.com/62888708/171227808-c87ae56f-9b20-4452-aaaf-9f40805fe53c.png"/>
+### Olá Mundo, eu sou o Dany Coutinho programador Full-Stack, para a Web e mais Mobile! <img height= "150" weight= "150" src="https://user-images.githubusercontent.com/62888708/171227808-c87ae56f-9b20-4452-aaaf-9f40805fe53c.png"/>
 
 ##
 <div align="center">
